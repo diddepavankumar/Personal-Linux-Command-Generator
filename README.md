@@ -1,4 +1,4 @@
-# AI Linux CMD Assistant
+# Personal Linux Command Assistant
 
 This project is an AI-powered assistant designed to help users with Linux commands. It utilizes a fine-tuned Llama 2 model to understand and respond to queries related to Linux.
 
